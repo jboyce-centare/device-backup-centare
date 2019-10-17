@@ -1,0 +1,11 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-07-24 22:22:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-07-24 22:22:09 ::1 GET / - 43540 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 - 500 0 0 6426
+2018-07-24 22:22:09 ::1 GET /favicon.ico - 43540 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:43540/ 500 0 0 25
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-07-24 22:32:23
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-07-24 22:32:23 127.0.0.1 GET / - 43540 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+Touch;+rv:11.0)+like+Gecko - 500 0 0 778
