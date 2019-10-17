@@ -1,0 +1,444 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+  <head>
+    <ownerEmail>boyceplanner@gmail.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="&lt;i&gt;PLANNER&lt;/i&gt;" _note=" " >
+      <outline text="&lt;b&gt;Scheduled&lt;/b&gt;" _note=" " >
+        <outline text="????????????????????????" _note=" " />
+        <outline text="Wednesday - 7/25" _note=" " >
+          <outline text="????????????????????????" />
+          <outline text="Clock In" _note="9:17" />
+          <outline text="Meetings at RP *" >
+            <outline text="Jodee" >
+              <outline text="~HEALTH RP B221 - 5" /></outline>
+            <outline text="James Rottmann" >
+              <outline text="~HEALTH RP B221 - 5" /></outline>
+          </outline>
+          <outline text="Shadow Matt Wanke *" />
+          <outline text="Specflow Sample * " />
+          <outline text="CAP Session *" />
+          <outline text="Scrum Meeting *" />
+          <outline text="Return Gel *" />
+          <outline text="Clock Out" />
+          <outline text="????????????????????????" _note=" " /></outline>
+        <outline text="Thursday - 7/26" _note=" " >
+          <outline text="????????????????????????" />
+          <outline text="Shadow Angus *" />
+          <outline text="????????????????????????" _note=" " /></outline>
+        <outline text="Friday - 7/27" _note=" " >
+          <outline text="????????????????????????" />
+          <outline text="Update Chrome *" >
+            <outline text="Change User" />
+            <outline text="Transfer Bookmarks" /></outline>
+          <outline text="Review Benefits *" >
+            <outline text="Review Life Policy" >
+              <outline text="Thomas Haislop" />
+              <outline text="(864) 324-4455" /></outline>
+            <outline text="Check Dental Policies" /></outline>
+          <outline text="Submit Impact Nomination *" >
+            <outline text="https://docs.google.com/forms/d/e/1FAIpQLSe8xNM3JbO9wmpKx5S4zHRLLqcvZHQ0cQ4OrVDFNNSUvHh5bQ/viewform" /></outline>
+          <outline text="Organize Folders *" />
+          <outline text="????????????????????????" _note=" " /></outline>
+        <outline text="????????????????????????" _note=" " />
+        <outline text="Monday - 7/30" _note=" " >
+          <outline text="????????????????????????" />
+          <outline text="????????????????????????" _note=" " /></outline>
+        <outline text="Tuesday - 7/31" _note=" " >
+          <outline text="????????????????????????" />
+          <outline text="????????????????????????" _note=" " /></outline>
+        <outline text="Wednesday - 8/1" _note=" " >
+          <outline text="????????????????????????" />
+          <outline text="????????????????????????" _note=" " /></outline>
+        <outline text="Thursday - 8/2" _note=" " >
+          <outline text="????????????????????????" />
+          <outline text="????????????????????????" _note=" " /></outline>
+        <outline text="Friday - 8/3" _note=" " >
+          <outline text="????????????????????????" />
+          <outline text="????????????????????????" _note=" " /></outline>
+        <outline text="????????????????????????" _note=" " />
+        <outline text="Months" _note=" " >
+          <outline text="July" />
+          <outline text="August" />
+          <outline text="September" />
+          <outline text="October" />
+          <outline text="November" />
+          <outline text="December" /></outline>
+        <outline _complete="true" text="Template" _note=" " >
+          <outline text="????????????????????????" _note=" " />
+          <outline text="Monday - " _note=" " >
+            <outline text="????????????????????????" />
+            <outline text="????????????????????????" _note=" " /></outline>
+          <outline text="Tuesday - " _note=" " >
+            <outline text="????????????????????????" />
+            <outline text="????????????????????????" _note=" " /></outline>
+          <outline text="Wednesday - " _note=" " >
+            <outline text="????????????????????????" />
+            <outline text="????????????????????????" _note=" " /></outline>
+          <outline text="Thursday - " _note=" " >
+            <outline text="????????????????????????" />
+            <outline text="????????????????????????" _note=" " /></outline>
+          <outline text="Friday - " _note=" " >
+            <outline text="????????????????????????" />
+            <outline text="????????????????????????" _note=" " /></outline>
+          <outline text="????????????????????????" _note=" " /></outline>
+        <outline text="????????????????????????" _note=" " /></outline>
+      <outline text="&lt;b&gt;High&lt;/b&gt;" _note=" " >
+        <outline text="????????????????????????" />
+        <outline text="Onboarding with API" >
+          <outline _complete="true" text="Set Up Hardware" />
+          <outline _complete="true" text="Acquire Access to GE" >
+            <outline _complete="true" text="Get Badge" /></outline>
+          <outline text="Set Up Accounts" >
+            <outline _complete="true" text="Trello" >
+              <outline _complete="true" text="Esquilax Board" />
+              <outline _complete="true" text="Scheduling Stream Board" /></outline>
+            <outline _complete="true" text="Rally" />
+            <outline _complete="true" text="Flowdock" />
+            <outline _complete="true" text="Box" />
+            <outline _complete="true" text="Gitswarm" >
+              <outline _complete="true" text="Join" >
+                <outline _complete="true" text="@HEALTH Gitswarm non-medical device users" >
+                  <outline _complete="true" text="Requested" _note="7/17/18" />
+                  <outline _complete="true" text="Accepted" _note="7/18/18" /></outline>
+              </outline>
+              <outline _complete="true" text="Log In" >
+                <outline _complete="true" text="Gitlab" >
+                  <outline _complete="true" text="Acquire Access to WFM-Tools Projects" /></outline>
+              </outline>
+            </outline>
+            <outline text="Azure" /></outline>
+          <outline text="Install Software" >
+            <outline _complete="true" text="Intial" >
+              <outline _complete="true" text=" 3.1 - 3.19 | .NET Software Dev Reqmts" >
+                <outline text="SQL Server 2016 | Installation Error" _note="(01) 2018-07-18 12:25:05 Slp: Log provider 'Microsoft.SqlServer.Chainer.Infrastructure.LogProviderFile' has been registered&#10;(01) 2018-07-18 12:25:05 Slp: Log provider 'Microsoft.SqlServer.Chainer.Infrastructure.LogProviderStatus' has been registered&#10;(01) 2018-07-18 12:25:10 Slp: Reading XML resource 'Microsoft.SQL.Chainer.PackageData.Package.xml'&#10;(01) 2018-07-18 12:25:10 Slp: Reading schema resource 'Microsoft.SQL.Chainer.Package.Package.xsd'&#10;(01) 2018-07-18 12:25:10 Slp: Document 'Microsoft.SQL.Chainer.PackageData.Package.xml' validated with schema 'Microsoft.SQL.Chainer.Package.Package.xsd' has been successfuly loaded into datastore path '/Datastore/Package'&#10;(01) 2018-07-18 12:25:12 Slp: ----------------------------------------------------------------------&#10;(01) 2018-07-18 12:25:12 Slp: Running Action: ReadProductXML&#10;(01) 2018-07-18 12:25:14 Slp: Reading XML resource 'Microsoft.SQL.Chainer.Product.Product.xml'&#10;(01) 2018-07-18 12:25:14 Slp: Document 'Microsoft.SQL.Chainer.Product.Product.xml' validated with schema 'Microsoft.SQL.Chainer.Product.Product.xsd' has been successfuly loaded into datastore path '/Datastore/Product'&#10;(01) 2018-07-18 12:25:14 Slp: Completed Action: ReadProductXML, returned True&#10;(01) 2018-07-18 12:25:14 Slp: ----------------------------------------------------------------------&#10;(01) 2018-07-18 12:25:14 Slp: Running Action: LoadExtensions&#10;(01) 2018-07-18 12:25:15 Slp: Loading extension 'MSI' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.MsiExtension.dll'&#10;(01) 2018-07-18 12:25:16 Slp: Extension 'MSI' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:16 Slp: Loading extension 'PackageChainer' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.PackageChainerExtension.dll'&#10;(01) 2018-07-18 12:25:16 Slp: Extension 'PackageChainer' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:16 Slp: Loading extension 'Config' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.ConfigExtension.dll'&#10;(01) 2018-07-18 12:25:17 Slp: Extension 'Config' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:17 Slp: Loading extension 'Common' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Chainer.ExtensionCommon.dll'&#10;(01) 2018-07-18 12:25:18 Slp: Extension 'Common' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:18 Slp: Loading extension 'SqlConfigBase' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SqlConfigBase.dll'&#10;(01) 2018-07-18 12:25:22 Slp: Extension 'SqlConfigBase' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:22 Slp: Loading extension 'Slp' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SetupExtension.dll'&#10;(01) 2018-07-18 12:25:23 Slp: Extension 'Slp' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:23 Slp: Loading extension 'RulesEngine' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.RulesEngineExtension.dll'&#10;(01) 2018-07-18 12:25:23 Slp: Extension 'RulesEngine' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:23 Slp: Loading extension 'WorkflowData' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Chainer.WorkflowData.dll'&#10;(01) 2018-07-18 12:25:25 Slp: Extension 'WorkflowData' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:25 Slp: Loading extension 'SlpConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SlpExtension.dll'&#10;(01) 2018-07-18 12:25:26 Slp: Extension 'SlpConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:26 Slp: Loading extension 'Clst' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.Cluster.dll'&#10;(01) 2018-07-18 12:25:28 Slp: Extension 'Clst' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:28 Slp: Loading extension 'AgentConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.AgentExtension.dll'&#10;(01) 2018-07-18 12:25:29 Slp: Extension 'AgentConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:29 Slp: Loading extension 'SqlPowershellConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.PowershellExtension.dll'&#10;(01) 2018-07-18 12:25:30 Slp: Extension 'SqlPowershellConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:30 Slp: Loading extension 'SSISConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SSISExtension.dll'&#10;(01) 2018-07-18 12:25:31 Slp: Extension 'SSISConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:31 Slp: Loading extension 'DReplayConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.DistributedReplayExtension.dll'&#10;(01) 2018-07-18 12:25:32 Slp: Extension 'DReplayConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:32 Slp: Loading extension 'ASConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.ASExtension.dll'&#10;(01) 2018-07-18 12:25:34 Slp: Extension 'ASConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:34 Slp: Loading extension 'ReplConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.Repl_ConfigExtension.dll'&#10;(01) 2018-07-18 12:25:35 Slp: Extension 'ReplConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:35 Slp: Loading extension 'ManagementToolsConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.ManagementToolsExtension.dll'&#10;(01) 2018-07-18 12:25:35 Slp: Extension 'ManagementToolsConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:35 Slp: Loading extension 'ManagementToolsAdvancedConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.ManagementToolsExtension.dll'&#10;(01) 2018-07-18 12:25:35 Slp: Extension 'ManagementToolsAdvancedConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:35 Slp: Loading extension 'UI' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.UIExtension.dll'&#10;(01) 2018-07-18 12:25:35 Slp: Extension 'UI' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:35 Slp: Loading extension 'ConfigurationResources' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.dll'&#10;(01) 2018-07-18 12:25:35 Slp: Extension 'ConfigurationResources' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:35 Slp: Loading extension 'SqlEngineConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SqlServer_ConfigExtension.dll'&#10;(01) 2018-07-18 12:25:40 Slp: Extension 'SqlEngineConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:40 Slp: Loading extension 'XTPConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.XTP.ConfigExtension.dll'&#10;(01) 2018-07-18 12:25:40 Slp: Extension 'XTPConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:40 Slp: Loading extension 'SniServerConfigExt' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SniServerConfigExt.dll'&#10;(01) 2018-07-18 12:25:43 Slp: Extension 'SniServerConfigExt' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:43 Slp: Loading extension 'SqlBrowserConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SqlBrowserExtension.dll'&#10;(01) 2018-07-18 12:25:44 Slp: Extension 'SqlBrowserConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:44 Slp: Loading extension 'SqlRSConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.RSExtension.dll'&#10;(01) 2018-07-18 12:25:46 Slp: Extension 'SqlRSConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:46 Slp: Loading extension 'SqlRSSHPConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.RSShpExtension.dll'&#10;(01) 2018-07-18 12:25:49 Slp: Extension 'SqlRSSHPConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:49 Slp: Loading extension 'ExtensibilityConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.Extensibility_ConfigExtension.dll'&#10;(01) 2018-07-18 12:25:50 Slp: Extension 'ExtensibilityConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:50 Slp: Loading extension 'sql_inst_mrConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.IMR_ConfigExtension.dll'&#10;(01) 2018-07-18 12:25:51 Slp: Extension 'sql_inst_mrConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:51 Slp: Loading extension 'sql_shared_mrConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SMR_ConfigExtension.dll'&#10;(01) 2018-07-18 12:25:51 Slp: Error: Action &quot;Microsoft.SqlServer.Configuration.BootstrapExtension.LoadExtensionsAction&quot; threw an exception during execution.&#10;(01) 2018-07-18 12:25:52 Slp: Microsoft.SqlServer.Setup.Chainer.Workflow.ActionExecutionException: External component has thrown an exception. ---&amp;gt; Microsoft.SqlServer.Chainer.Infrastructure.ChainerInfrastructureException: External component has thrown an exception. ---&amp;gt; System.Runtime.InteropServices.SEHException: External component has thrown an exception.&#10;(01) 2018-07-18 12:25:52 Slp:    at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark&amp;amp; stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)&#10;(01) 2018-07-18 12:25:52 Slp:    at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark&amp;amp; stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)&#10;(01) 2018-07-18 12:25:52 Slp:    at System.Reflection.RuntimeAssembly.InternalLoadFrom(String assemblyFile, Evidence securityEvidence, Byte[] hashValue, AssemblyHashAlgorithm hashAlgorithm, Boolean forIntrospection, Boolean suppressSecurityChecks, StackCrawlMark&amp;amp; stackMark)&#10;(01) 2018-07-18 12:25:52 Slp:    at System.Reflection.Assembly.LoadFrom(String assemblyFile)&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Chainer.Infrastructure.ExtensionService.RegisterExtension(String extensionId, String name, String path)&#10;(01) 2018-07-18 12:25:52 Slp:    --- End of inner exception stack trace ---&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Chainer.Infrastructure.ExtensionService.RegisterExtension(String extensionId, String name, String path)&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Chainer.Infrastructure.ExtensionService.LoadExtensions(XmlElement extensionsElement)&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Configuration.BootstrapExtension.LoadExtensionsAction.ExecuteAction(String actionId)&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Chainer.Infrastructure.Action.Execute(String actionId, TextWriter errorStream)&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.&amp;lt;&amp;gt;c__DisplayClasse.&amp;lt;ExecuteActionWithRetryHelper&amp;gt;b__b()&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.ExecuteActionHelper(ActionWorker workerDelegate)&#10;(01) 2018-07-18 12:25:52 Slp:    --- End of inner exception stack trace ---&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.ExecuteActionHelper(ActionWorker workerDelegate)&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.ExecuteActionWithRetryHelper(WorkflowObject metaDb, ActionKey action, ActionMetadata actionMetadata, TextWriter statusStream)&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.InvokeAction(WorkflowObject metabase, TextWriter statusStream)&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Setup.Chainer.Workflow.PendingActions.InvokeActions(WorkflowObject metaDb, TextWriter loggingStream)&#10;(01) 2018-07-18 12:25:54 Slp: Received request to add the following file to Watson reporting: C:\Users\503070486\AppData\Local\Temp\tmpBFD1.tmp&#10;(01) 2018-07-18 12:25:54 Slp: The following is an exception stack listing the exceptions in outermost to innermost order&#10;(01) 2018-07-18 12:25:54 Slp: Inner exceptions are being indented&#10;(01) 2018-07-18 12:25:54 Slp: &#10;(01) 2018-07-18 12:25:54 Slp: Exception type: Microsoft.SqlServer.Chainer.Infrastructure.ChainerInfrastructureException&#10;(01) 2018-07-18 12:25:54 Slp:     Message: &#10;(01) 2018-07-18 12:25:54 Slp:         External component has thrown an exception.&#10;(01) 2018-07-18 12:25:54 Slp:     HResult : 0x84b10001&#10;(01) 2018-07-18 12:25:54 Slp:         FacilityCode : 1201 (4b1)&#10;(01) 2018-07-18 12:25:54 Slp:         ErrorCode : 1 (0001)&#10;(01) 2018-07-18 12:25:54 Slp:     Stack: &#10;(01) 2018-07-18 12:25:54 Slp:         at Microsoft.SqlServer.Chainer.Infrastructure.ExtensionService.RegisterExtension(String extensionId, String name, String path)&#10;(01) 2018-07-18 12:25:54 Slp:         at Microsoft.SqlServer.Chainer.Infrastructure.ExtensionService.LoadExtensions(XmlElement extensionsElement)&#10;(01) 2018-07-18 12:25:54 Slp:         at Microsoft.SqlServer.Configuration.BootstrapExtension.LoadExtensionsAction.ExecuteAction(String actionId)&#10;(01) 2018-07-18 12:25:54 Slp:         at Microsoft.SqlServer.Chainer.Infrastructure.Action.Execute(String actionId, TextWriter errorStream)&#10;(01) 2018-07-18 12:25:54 Slp:         at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.&amp;lt;&amp;gt;c__DisplayClasse.&amp;lt;ExecuteActionWithRetryHelper&amp;gt;b__b()&#10;(01) 2018-07-18 12:25:54 Slp:         at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.ExecuteActionHelper(ActionWorker workerDelegate)&#10;(01) 2018-07-18 12:25:54 Slp:     Inner exception type: System.Runtime.InteropServices.SEHException&#10;(01) 2018-07-18 12:25:54 Slp:         Message: &#10;(01) 2018-07-18 12:25:54 Slp:                 External component has thrown an exception.&#10;(01) 2018-07-18 12:25:54 Slp:         HResult : 0x80004005&#10;(01) 2018-07-18 12:25:54 Slp:         Stack: &#10;(01) 2018-07-18 12:25:54 Slp:                 at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark&amp;amp; stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)&#10;(01) 2018-07-18 12:25:54 Slp:                 at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark&amp;amp; stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)&#10;(01) 2018-07-18 12:25:54 Slp:                 at System.Reflection.RuntimeAssembly.InternalLoadFrom(String assemblyFile, Evidence securityEvidence, Byte[] hashValue, AssemblyHashAlgorithm hashAlgorithm, Boolean forIntrospection, Boolean suppressSecurityChecks, StackCrawlMark&amp;amp; stackMark)&#10;(01) 2018-07-18 12:25:54 Slp:                 at System.Reflection.Assembly.LoadFrom(String assemblyFile)&#10;(01) 2018-07-18 12:25:54 Slp:                 at Microsoft.SqlServer.Chainer.Infrastructure.ExtensionService.RegisterExtension(String extensionId, String name, String path)" />
+                <outline text="https://keep.google.com/#LIST/1531857904430.1010356995" /></outline>
+              <outline _complete="true" text="3.20 - 3.40 | .NET Software Dev Reqmts" >
+                <outline text="https://keep.google.com/#LIST/1531858462655.460110094" /></outline>
+              <outline _complete="true" text="4 | Supporting Tools" >
+                <outline text="https://keep.google.com/#LIST/1531858474004.1266515601" /></outline>
+            </outline>
+            <outline text="Revisit" >
+              <outline text=" 3.1 - 3.19 | .NET Software Dev Reqmts" >
+                <outline text="SQL Server 2016 | Installation Error" _note="(01) 2018-07-18 12:25:05 Slp: Log provider 'Microsoft.SqlServer.Chainer.Infrastructure.LogProviderFile' has been registered&#10;(01) 2018-07-18 12:25:05 Slp: Log provider 'Microsoft.SqlServer.Chainer.Infrastructure.LogProviderStatus' has been registered&#10;(01) 2018-07-18 12:25:10 Slp: Reading XML resource 'Microsoft.SQL.Chainer.PackageData.Package.xml'&#10;(01) 2018-07-18 12:25:10 Slp: Reading schema resource 'Microsoft.SQL.Chainer.Package.Package.xsd'&#10;(01) 2018-07-18 12:25:10 Slp: Document 'Microsoft.SQL.Chainer.PackageData.Package.xml' validated with schema 'Microsoft.SQL.Chainer.Package.Package.xsd' has been successfuly loaded into datastore path '/Datastore/Package'&#10;(01) 2018-07-18 12:25:12 Slp: ----------------------------------------------------------------------&#10;(01) 2018-07-18 12:25:12 Slp: Running Action: ReadProductXML&#10;(01) 2018-07-18 12:25:14 Slp: Reading XML resource 'Microsoft.SQL.Chainer.Product.Product.xml'&#10;(01) 2018-07-18 12:25:14 Slp: Document 'Microsoft.SQL.Chainer.Product.Product.xml' validated with schema 'Microsoft.SQL.Chainer.Product.Product.xsd' has been successfuly loaded into datastore path '/Datastore/Product'&#10;(01) 2018-07-18 12:25:14 Slp: Completed Action: ReadProductXML, returned True&#10;(01) 2018-07-18 12:25:14 Slp: ----------------------------------------------------------------------&#10;(01) 2018-07-18 12:25:14 Slp: Running Action: LoadExtensions&#10;(01) 2018-07-18 12:25:15 Slp: Loading extension 'MSI' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.MsiExtension.dll'&#10;(01) 2018-07-18 12:25:16 Slp: Extension 'MSI' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:16 Slp: Loading extension 'PackageChainer' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.PackageChainerExtension.dll'&#10;(01) 2018-07-18 12:25:16 Slp: Extension 'PackageChainer' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:16 Slp: Loading extension 'Config' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.ConfigExtension.dll'&#10;(01) 2018-07-18 12:25:17 Slp: Extension 'Config' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:17 Slp: Loading extension 'Common' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Chainer.ExtensionCommon.dll'&#10;(01) 2018-07-18 12:25:18 Slp: Extension 'Common' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:18 Slp: Loading extension 'SqlConfigBase' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SqlConfigBase.dll'&#10;(01) 2018-07-18 12:25:22 Slp: Extension 'SqlConfigBase' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:22 Slp: Loading extension 'Slp' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SetupExtension.dll'&#10;(01) 2018-07-18 12:25:23 Slp: Extension 'Slp' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:23 Slp: Loading extension 'RulesEngine' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.RulesEngineExtension.dll'&#10;(01) 2018-07-18 12:25:23 Slp: Extension 'RulesEngine' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:23 Slp: Loading extension 'WorkflowData' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Chainer.WorkflowData.dll'&#10;(01) 2018-07-18 12:25:25 Slp: Extension 'WorkflowData' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:25 Slp: Loading extension 'SlpConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SlpExtension.dll'&#10;(01) 2018-07-18 12:25:26 Slp: Extension 'SlpConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:26 Slp: Loading extension 'Clst' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.Cluster.dll'&#10;(01) 2018-07-18 12:25:28 Slp: Extension 'Clst' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:28 Slp: Loading extension 'AgentConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.AgentExtension.dll'&#10;(01) 2018-07-18 12:25:29 Slp: Extension 'AgentConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:29 Slp: Loading extension 'SqlPowershellConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.PowershellExtension.dll'&#10;(01) 2018-07-18 12:25:30 Slp: Extension 'SqlPowershellConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:30 Slp: Loading extension 'SSISConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SSISExtension.dll'&#10;(01) 2018-07-18 12:25:31 Slp: Extension 'SSISConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:31 Slp: Loading extension 'DReplayConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.DistributedReplayExtension.dll'&#10;(01) 2018-07-18 12:25:32 Slp: Extension 'DReplayConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:32 Slp: Loading extension 'ASConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.ASExtension.dll'&#10;(01) 2018-07-18 12:25:34 Slp: Extension 'ASConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:34 Slp: Loading extension 'ReplConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.Repl_ConfigExtension.dll'&#10;(01) 2018-07-18 12:25:35 Slp: Extension 'ReplConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:35 Slp: Loading extension 'ManagementToolsConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.ManagementToolsExtension.dll'&#10;(01) 2018-07-18 12:25:35 Slp: Extension 'ManagementToolsConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:35 Slp: Loading extension 'ManagementToolsAdvancedConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.ManagementToolsExtension.dll'&#10;(01) 2018-07-18 12:25:35 Slp: Extension 'ManagementToolsAdvancedConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:35 Slp: Loading extension 'UI' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.UIExtension.dll'&#10;(01) 2018-07-18 12:25:35 Slp: Extension 'UI' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:35 Slp: Loading extension 'ConfigurationResources' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.dll'&#10;(01) 2018-07-18 12:25:35 Slp: Extension 'ConfigurationResources' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:35 Slp: Loading extension 'SqlEngineConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SqlServer_ConfigExtension.dll'&#10;(01) 2018-07-18 12:25:40 Slp: Extension 'SqlEngineConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:40 Slp: Loading extension 'XTPConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.XTP.ConfigExtension.dll'&#10;(01) 2018-07-18 12:25:40 Slp: Extension 'XTPConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:40 Slp: Loading extension 'SniServerConfigExt' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SniServerConfigExt.dll'&#10;(01) 2018-07-18 12:25:43 Slp: Extension 'SniServerConfigExt' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:43 Slp: Loading extension 'SqlBrowserConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SqlBrowserExtension.dll'&#10;(01) 2018-07-18 12:25:44 Slp: Extension 'SqlBrowserConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:44 Slp: Loading extension 'SqlRSConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.RSExtension.dll'&#10;(01) 2018-07-18 12:25:46 Slp: Extension 'SqlRSConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:46 Slp: Loading extension 'SqlRSSHPConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.RSShpExtension.dll'&#10;(01) 2018-07-18 12:25:49 Slp: Extension 'SqlRSSHPConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:49 Slp: Loading extension 'ExtensibilityConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.Extensibility_ConfigExtension.dll'&#10;(01) 2018-07-18 12:25:50 Slp: Extension 'ExtensibilityConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:50 Slp: Loading extension 'sql_inst_mrConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.IMR_ConfigExtension.dll'&#10;(01) 2018-07-18 12:25:51 Slp: Extension 'sql_inst_mrConfig' version '13.0.1601.5' loaded&#10;(01) 2018-07-18 12:25:51 Slp: Loading extension 'sql_shared_mrConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SMR_ConfigExtension.dll'&#10;(01) 2018-07-18 12:25:51 Slp: Error: Action &quot;Microsoft.SqlServer.Configuration.BootstrapExtension.LoadExtensionsAction&quot; threw an exception during execution.&#10;(01) 2018-07-18 12:25:52 Slp: Microsoft.SqlServer.Setup.Chainer.Workflow.ActionExecutionException: External component has thrown an exception. ---&amp;gt; Microsoft.SqlServer.Chainer.Infrastructure.ChainerInfrastructureException: External component has thrown an exception. ---&amp;gt; System.Runtime.InteropServices.SEHException: External component has thrown an exception.&#10;(01) 2018-07-18 12:25:52 Slp:    at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark&amp;amp; stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)&#10;(01) 2018-07-18 12:25:52 Slp:    at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark&amp;amp; stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)&#10;(01) 2018-07-18 12:25:52 Slp:    at System.Reflection.RuntimeAssembly.InternalLoadFrom(String assemblyFile, Evidence securityEvidence, Byte[] hashValue, AssemblyHashAlgorithm hashAlgorithm, Boolean forIntrospection, Boolean suppressSecurityChecks, StackCrawlMark&amp;amp; stackMark)&#10;(01) 2018-07-18 12:25:52 Slp:    at System.Reflection.Assembly.LoadFrom(String assemblyFile)&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Chainer.Infrastructure.ExtensionService.RegisterExtension(String extensionId, String name, String path)&#10;(01) 2018-07-18 12:25:52 Slp:    --- End of inner exception stack trace ---&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Chainer.Infrastructure.ExtensionService.RegisterExtension(String extensionId, String name, String path)&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Chainer.Infrastructure.ExtensionService.LoadExtensions(XmlElement extensionsElement)&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Configuration.BootstrapExtension.LoadExtensionsAction.ExecuteAction(String actionId)&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Chainer.Infrastructure.Action.Execute(String actionId, TextWriter errorStream)&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.&amp;lt;&amp;gt;c__DisplayClasse.&amp;lt;ExecuteActionWithRetryHelper&amp;gt;b__b()&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.ExecuteActionHelper(ActionWorker workerDelegate)&#10;(01) 2018-07-18 12:25:52 Slp:    --- End of inner exception stack trace ---&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.ExecuteActionHelper(ActionWorker workerDelegate)&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.ExecuteActionWithRetryHelper(WorkflowObject metaDb, ActionKey action, ActionMetadata actionMetadata, TextWriter statusStream)&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.InvokeAction(WorkflowObject metabase, TextWriter statusStream)&#10;(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Setup.Chainer.Workflow.PendingActions.InvokeActions(WorkflowObject metaDb, TextWriter loggingStream)&#10;(01) 2018-07-18 12:25:54 Slp: Received request to add the following file to Watson reporting: C:\Users\503070486\AppData\Local\Temp\tmpBFD1.tmp&#10;(01) 2018-07-18 12:25:54 Slp: The following is an exception stack listing the exceptions in outermost to innermost order&#10;(01) 2018-07-18 12:25:54 Slp: Inner exceptions are being indented&#10;(01) 2018-07-18 12:25:54 Slp: &#10;(01) 2018-07-18 12:25:54 Slp: Exception type: Microsoft.SqlServer.Chainer.Infrastructure.ChainerInfrastructureException&#10;(01) 2018-07-18 12:25:54 Slp:     Message: &#10;(01) 2018-07-18 12:25:54 Slp:         External component has thrown an exception.&#10;(01) 2018-07-18 12:25:54 Slp:     HResult : 0x84b10001&#10;(01) 2018-07-18 12:25:54 Slp:         FacilityCode : 1201 (4b1)&#10;(01) 2018-07-18 12:25:54 Slp:         ErrorCode : 1 (0001)&#10;(01) 2018-07-18 12:25:54 Slp:     Stack: &#10;(01) 2018-07-18 12:25:54 Slp:         at Microsoft.SqlServer.Chainer.Infrastructure.ExtensionService.RegisterExtension(String extensionId, String name, String path)&#10;(01) 2018-07-18 12:25:54 Slp:         at Microsoft.SqlServer.Chainer.Infrastructure.ExtensionService.LoadExtensions(XmlElement extensionsElement)&#10;(01) 2018-07-18 12:25:54 Slp:         at Microsoft.SqlServer.Configuration.BootstrapExtension.LoadExtensionsAction.ExecuteAction(String actionId)&#10;(01) 2018-07-18 12:25:54 Slp:         at Microsoft.SqlServer.Chainer.Infrastructure.Action.Execute(String actionId, TextWriter errorStream)&#10;(01) 2018-07-18 12:25:54 Slp:         at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.&amp;lt;&amp;gt;c__DisplayClasse.&amp;lt;ExecuteActionWithRetryHelper&amp;gt;b__b()&#10;(01) 2018-07-18 12:25:54 Slp:         at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.ExecuteActionHelper(ActionWorker workerDelegate)&#10;(01) 2018-07-18 12:25:54 Slp:     Inner exception type: System.Runtime.InteropServices.SEHException&#10;(01) 2018-07-18 12:25:54 Slp:         Message: &#10;(01) 2018-07-18 12:25:54 Slp:                 External component has thrown an exception.&#10;(01) 2018-07-18 12:25:54 Slp:         HResult : 0x80004005&#10;(01) 2018-07-18 12:25:54 Slp:         Stack: &#10;(01) 2018-07-18 12:25:54 Slp:                 at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark&amp;amp; stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)&#10;(01) 2018-07-18 12:25:54 Slp:                 at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark&amp;amp; stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)&#10;(01) 2018-07-18 12:25:54 Slp:                 at System.Reflection.RuntimeAssembly.InternalLoadFrom(String assemblyFile, Evidence securityEvidence, Byte[] hashValue, AssemblyHashAlgorithm hashAlgorithm, Boolean forIntrospection, Boolean suppressSecurityChecks, StackCrawlMark&amp;amp; stackMark)&#10;(01) 2018-07-18 12:25:54 Slp:                 at System.Reflection.Assembly.LoadFrom(String assemblyFile)&#10;(01) 2018-07-18 12:25:54 Slp:                 at Microsoft.SqlServer.Chainer.Infrastructure.ExtensionService.RegisterExtension(String extensionId, String name, String path)" />
+                <outline text="https://keep.google.com/#LIST/1531857904430.1010356995" /></outline>
+              <outline text="3.20 - 3.40 | .NET Software Dev Reqmts" >
+                <outline text="https://keep.google.com/#LIST/1531858462655.460110094" /></outline>
+              <outline _complete="true" text="4 | Supporting Tools" >
+                <outline text="https://keep.google.com/#LIST/1531858474004.1266515601" /></outline>
+            </outline>
+          </outline>
+        </outline>
+        <outline text="Centare Setup (Owen)" >
+          <outline _complete="true" text="Hi Josh – when you have downtime, here is a list of some tools to get setup and install, as well as some links to sites with good content to start brushing up on:" />
+          <outline _complete="true" text="Setup / Install" >
+            <outline _complete="true" text="-Visual Studio Code" />
+            <outline _complete="true" text="-Visual Studio 2017" />
+            <outline _complete="true" text="-SQL Server Management Studio" />
+            <outline _complete="true" text="-Selenium" />
+            <outline _complete="true" text="-Postman" />
+            <outline _complete="true" text="-Cucumber / Specflow" >
+              <outline text="https://specflow.org/plus/request-trial/" /></outline>
+          </outline>
+          <outline text="Learning Guides" >
+            <outline text="Software Testing Tutorials" >
+              <outline text="https://www.guru99.com/software-testing.html" /></outline>
+            <outline text="Selenium" >
+              <outline text="https://www.guru99.com/selenium-tutorial.html" />
+              <outline text="As an alternative you can also learn about  QTP" /></outline>
+            <outline text="Jmeter " >
+              <outline text="https://www.guru99.com/jmeter-tutorials.html" />
+              <outline text="As an alternative you can also learn about  Loadrunner" /></outline>
+            <outline text="Testlink" >
+              <outline text="https://www.guru99.com/testlink-tutorial-complete-guide.html" />
+              <outline text="As an alternative you can also learn about Quality Center" /></outline>
+            <outline text="-Agile Scrum Testing Reading / Tutorial" >
+              <outline text=" https://www.guru99.com/agile-testing-course.html" /></outline>
+          </outline>
+        </outline>
+        <outline text="????????????????????????" _note=" " /></outline>
+      <outline text="&lt;b&gt;Mid&lt;/b&gt;" _note=" " >
+        <outline text="????????????????????????" />
+        <outline text="Sync Accounts" />
+        <outline text="Review Sessions" >
+          <outline text="Agile Training (Jason)" >
+            <outline text="" /></outline>
+          <outline text="Interview Meeting (Scott)" >
+            <outline text="Translation Of" >
+              <outline text="What can you do? / Tech Skills" >
+                <outline text="Know it very well" >
+                  <outline text="yes is not enough" >
+                    <outline text="demonstrate" />
+                    <outline text="give example" />
+                    <outline text="ask how they did it" /></outline>
+                </outline>
+                <outline text="I've been exposed to it" >
+                  <outline text="Kind of is not enough" >
+                    <outline text="demo context history" />
+                    <outline text="show comp exp" />
+                    <outline text="offer alternative" /></outline>
+                </outline>
+                <outline text="I have no clue" >
+                  <outline text="No is not enough" >
+                    <outline text="ask q's" />
+                    <outline text="show your attack plan" />
+                    <outline text="" /></outline>
+                </outline>
+              </outline>
+              <outline text="How well do you play nice? / Team Dynamics &amp;amp; Engagement" >
+                <outline text="Be postive" >
+                  <outline text="Don't talk about past teams" />
+                  <outline text="challenges are opportunities" />
+                  <outline text="no judgement" /></outline>
+                <outline text="We vs. I" />
+                <outline text="In-interview problem solving" >
+                  <outline text="answer more than what was asked" />
+                  <outline text="approach with care" />
+                  <outline text="don't assume" /></outline>
+                <outline text="asking questions" >
+                  <outline text="the most important team" />
+                  <outline text="the best way to show engagement" />
+                  <outline text="it doesn't matter if you already know the answers" />
+                  <outline text="have 5 stock q's" /></outline>
+              </outline>
+              <outline text="How easy will it be for you? / Soft Skills" >
+                <outline text="rarely asked directly but can be used anywhere" /></outline>
+            </outline>
+            <outline text="Focusing On" >
+              <outline text="Act as if your interviewer is a 4 year old" >
+                <outline text="&quot;WHY&quot;" />
+                <outline text="know your audience" >
+                  <outline text="understand motives" /></outline>
+              </outline>
+              <outline text="Act as if your interviewer is a bully" >
+                <outline text="&quot;SO WHAT&quot;" />
+                <outline text="What was the result" />
+                <outline text="They want to see that you have been successful" /></outline>
+            </outline>
+            <outline text="Informed By" >
+              <outline text="Interview prep" >
+                <outline text="resume refresh" />
+                <outline text="resume rewrite" />
+                <outline text="scenario hypothesis" />
+                <outline text="ask questions of fellow centarians" /></outline>
+            </outline>
+            <outline text="Sample Questions" >
+              <outline text="team size" />
+              <outline text="what roles" />
+              <outline text="how do you divide" />
+              <outline text="what is the company culture" /></outline>
+          </outline>
+          <outline text="PO and Agile (Cat)" >
+            <outline text="Safe" />
+            <outline text="agile is methodology" />
+            <outline text="scrum is framework" />
+            <outline text="https://www.scaledagileframework.com/" /></outline>
+          <outline text="Testing (Shannon)" >
+            <outline text="moq.mock" />
+            <outline text="fixture" />
+            <outline text="lmd" />
+            <outline text="aaa" />
+            <outline text="child/parent" /></outline>
+        </outline>
+        <outline text="????????????????????????" _note=" " /></outline>
+      <outline text="&lt;b&gt;Low&lt;/b&gt;" _note=" " >
+        <outline text="????????????????????????" />
+        <outline text="Read Books" >
+          <outline text="The Ideal Team Player" />
+          <outline text="Getting Naked " />
+          <outline text="5 Dysfunctions of a Team" />
+          <outline text="Scrum Guide" />
+          <outline text="Agile Manifesto" /></outline>
+        <outline text="Read Guidebook" />
+        <outline text="????????????????????????" _note=" " /></outline>
+      <outline _complete="true" text="Complete" _note=" " >
+        <outline text="????????????????????????" _note=" " />
+        <outline text="July" _note=" " >
+          <outline _complete="true" text="Week 28" _note=" " >
+            <outline _complete="true" text="Monday - 7/9" _note=" " >
+              <outline _complete="true" text="Orientation Day" /></outline>
+            <outline _complete="true" text="Tuesday - 7/10" _note=" " >
+              <outline _complete="true" text="Meetings" >
+                <outline _complete="true" text="Shannon (Shadow)" />
+                <outline _complete="true" text="Matt" />
+                <outline _complete="true" text="Cat" /></outline>
+              <outline _complete="true" text="Request CAP Reschedule" />
+              <outline _complete="true" text="Setup / Install" >
+                <outline _complete="true" text="Visual Studio 2017" />
+                <outline _complete="true" text="Visual Studio Code" />
+                <outline _complete="true" text="SQL Server Management Studio" />
+                <outline _complete="true" text="Selenium" />
+                <outline _complete="true" text="Postman" />
+                <outline _complete="true" text="Cucumber / Specflow" /></outline>
+              <outline _complete="true" text="Sign Handbook" /></outline>
+            <outline _complete="true" text="Wednesday - 7/11" _note=" " >
+              <outline _complete="true" text="Prepare for API Interview" />
+              <outline _complete="true" text="Interview Meeting (Scott)" />
+              <outline _complete="true" text="Agile Training (Jason)" />
+              <outline _complete="true" text="Interview with API" />
+              <outline _complete="true" text="Post-Interview Questions" >
+                <outline text="Interview Questions They Asked *" _note="Please list the kind of questions that were asked during the interview. If you remember specific questions, please include. You do not need to include everything." >
+                  <outline text="What kind of experience do you have with testing? (Asked both from a technical standpoint for QE, as well as a more general standpoint for QA)" />
+                  <outline text="What experience do you have with Agile and Scrum? (Many follow up questions about these subjects)" />
+                  <outline text="What workflow process(es) have you used in the past for work projects?" />
+                  <outline text="What was your plan of attack for tackling projects you had little to no prior knowledge about?" />
+                  <outline text="When encountering difficult problems that you were unable to find answers for yourself, who would you seek out for assistance, and how?" />
+                  <outline text="What are your long-term career goals?" />
+                  <outline text="Are there certain fields, positions, or skills you are most interested in pursuing in the near future?" /></outline>
+                <outline text="Interview Questions You Asked *" _note="Please list the kind of questions that you asked during the interview and what they responded with. If you remember specific questions, please include. You do not need to include everything." >
+                  <outline text="General questions about the company history, the current landscape with all of the changes being made, future goals, and company size." />
+                  <outline text="Questions about team dynamics and challenges associated with having multiple businesses working on the same project. They spoke very highly of Centare and even showed interest in hiring some Centarians directly. Some other consulting firms they work with severely oversold their developers, leading to issues within the teams, and even terminations." />
+                  <outline text="Questions about technologies and languages used for the current project. They said there wouldn't be an immediate need for Cucumber/SpecFlow from the outset, but that it will be used soon in the development process. Currently their focus is on one main front-end piece of the work management software they are rebuilding, so most of the QE work will be directed towards front end UI/UX testing that will be performed with other tools, from my understanding. " /></outline>
+                <outline text="Technology Stack *" _note="Please list the technologies the engagement talked about in the interview." >
+                  <outline text="C#" />
+                  <outline text="JavaScript / HTML / CSS" />
+                  <outline text=".NET" />
+                  <outline text="Selenium" />
+                  <outline text="Cucumber / SpecFlow / Gherkin" />
+                  <outline text="SQL" /></outline>
+              </outline>
+              <outline _complete="true" text="CAP Session with Scott" /></outline>
+            <outline _complete="true" text="Thursday - 7/12" _note=" " >
+              <outline _complete="true" text="Reschedule CAP (Scott)" />
+              <outline _complete="true" text="Ask Ben about Payroll Error" />
+              <outline _complete="true" text="Benefits Meeting with Joni" />
+              <outline _complete="true" text="Work on Intro Video" />
+              <outline _complete="true" text="Study for CAP" /></outline>
+            <outline _complete="true" text="Friday - 7/13" _note=" " >
+              <outline _complete="true" text="Friday 15" />
+              <outline _complete="true" text="Message Sam" />
+              <outline _complete="true" text="Study for CAP" />
+              <outline _complete="true" text="Ask About Paylocity" />
+              <outline _complete="true" text="CAP Session with Scott" />
+              <outline _complete="true" text="Respond to Brewers Outing" /></outline>
+          </outline>
+          <outline _complete="true" text="Week 29" _note=" " >
+            <outline _complete="true" text="Monday - 7/16" _note=" " >
+              <outline _complete="true" text="Set Up Hardware" />
+              <outline _complete="true" text="Acquire Access to GE" >
+                <outline _complete="true" text="Get Badge" /></outline>
+              <outline _complete="true" text="Set Up Accounts" /></outline>
+            <outline _complete="true" text="Tuesday - 7/17" _note=" " >
+              <outline _complete="true" text="Sync Centare with GE Outlook Account" />
+              <outline _complete="true" text="Set Up Accounts" />
+              <outline _complete="true" text="Install Software" /></outline>
+            <outline _complete="true" text="Wednesday - 7/18" _note=" " >
+              <outline _complete="true" text="Scrum / Retro Meetings" />
+              <outline _complete="true" text="Onboarding Installations" /></outline>
+            <outline _complete="true" text="Thursday - 7/19" _note=" " >
+              <outline _complete="true" text="PomoDone App" />
+              <outline _complete="true" text="Enter Payroll" />
+              <outline _complete="true" text="Onboarding Installations" >
+                <outline _complete="true" text="Gitswarm" >
+                  <outline _complete="true" text="Join" >
+                    <outline _complete="true" text="@HEALTH Gitswarm non-medical device users" >
+                      <outline _complete="true" text="Requested" _note="7/17/18" />
+                      <outline _complete="true" text="Accepted" _note="7/18/18" /></outline>
+                  </outline>
+                  <outline _complete="true" text="Log In" >
+                    <outline _complete="true" text="Gitlab" >
+                      <outline _complete="true" text="Acquire Access to WFM-Tools Project" /></outline>
+                  </outline>
+                </outline>
+              </outline>
+            </outline>
+            <outline _complete="true" text="Friday - 7/20" _note=" " >
+              <outline text="????????????????????????" />
+              <outline _complete="true" text="Onboarding with API *" >
+                <outline text="https://workflowy.com/#/dbb1b708a5b7" /></outline>
+              <outline _complete="true" text="Enter Payroll" />
+              <outline _complete="true" text="Ask for Keyboard" />
+              <outline _complete="true" text="Ask About Clock In *" _note="1:45" >
+                <outline text="Email" _note="Hi Tim,&#10;&#10;I had heard from my team members that there is a process for clocking hours with GE/API? I hadn't seen any information about this so I just wanted to check whether I was set up for it, and if so, how to access the portal that is used for clocking in and out.&#10;&#10;Thanks much!&#10;&#10;Boyce" /></outline>
+              <outline _complete="true" text="Talk to Ben About Timesheet" >
+                <outline _complete="true" text="First Week" /></outline>
+              <outline text="????????????????????????" _note=" " /></outline>
+          </outline>
+        </outline>
+        <outline text="Week 30" _note=" " >
+          <outline _complete="true" text="Monday - 7/23" _note=" " >
+            <outline text="????????????????????????" />
+            <outline _complete="true" text="Review Benefits *" _note="Mon, 7/23" >
+              <outline _complete="true" text="Set Up HSA" _note="4:15" >
+                <outline _complete="true" text="Optum" >
+                  <outline text="1-866-234-8913" />
+                  <outline text="www.optumbank.com/wellsfargo" /></outline>
+                <outline _complete="true" text="Spring Bank" >
+                  <outline text="(262) 754-5555" />
+                  <outline text="16620 W Bluemound Rd #100, Brookfield, WI 53005" /></outline>
+              </outline>
+              <outline _complete="true" text="Call Life Policy" >
+                <outline text="No Answer" /></outline>
+            </outline>
+            <outline _complete="true" text="Intro Video *" _note="Mon, 7/23" >
+              <outline _complete="true" text="Sections" >
+                <outline _complete="true" text="Open" >
+                  <outline _complete="true" text="Name" >
+                    <outline _complete="true" text="My name is Josh Boyce, but most people call me Boyce" /></outline>
+                  <outline _complete="true" text="Role at Centare" >
+                    <outline _complete="true" text="My role at Centare is Software Developer in Test" /></outline>
+                  <outline _complete="true" text="Previous Job" >
+                    <outline _complete="true" text="My previous job was at JB's Furniture doing finances, inventory, and development." /></outline>
+                </outline>
+                <outline _complete="true" text="Questions " >
+                  <outline _complete="true" text="If you could have dinner anywhere tonight, where would it be? What would you eat and who would you share it with?" >
+                    <outline text="So in the southeast where I grew up there is a restaurant chain called Fatz Southern Kitchen (Fatz with a Z), and they have theeeee most incredible chicken strips, that just melt in your mouth. So I'd get the calabash chicken tenders with as many sides as I could handle, and I'd share it with my family, close friends slash adopted families, and all my nieces and nephews and godchildren. So only like a hundred people." /></outline>
+                  <outline _complete="true" text="What’s the most unique situation you’ve ever been in?" >
+                    <outline text="So it's extremely hard to choose just one" />
+                    <outline text="A few years ago" />
+                    <outline text="Drove to CA from SC" />
+                    <outline text="Boot camp graduation" />
+                    <outline text="Wedding in Vegas" />
+                    <outline text="Honeymoon in CA" />
+                    <outline text="Went exploring" />
+                    <outline text="Got detained" />
+                    <outline text="Car searched" />
+                    <outline text="Questioned by cops" />
+                    <outline text="Laughed at by cousins" />
+                    <outline text="So fun fact: it's very difficult to climb into a police truck with a lift kit when your hands are handcuffed behind your back. Who knew? " /></outline>
+                  <outline _complete="true" text="What would you say is your greatest accomplishment?" >
+                    <outline text="I would say helping others during difficult times in their lives... Is that too serious? Okay one time when I was primitive camping I made a fish net out of reeds and it actually worked, so I could basically have my own show on the Discovery channel." /></outline>
+                  <outline _complete="true" text="If you had to boil your personality down to a Tweet, how would you describe yourself?" >
+                    <outline text="High" >
+                      <outline text="I'm like Shrek or a never-ending Russian nesting doll: I have lots of layers. I'm down to earth, like to have fun, like to help people, and I'm kinda sarcastic. Read more here: (with a link to a public Google Doc or something, because there's just a lot more going on there)." /></outline>
+                    <outline text="Low" >
+                      <outline text="I'm down to earth, fun, and love to laugh and swap stories with friends." />
+                      <outline text="I enjoy both epic adventures as well as binge-watching Psych at home, so long as I'm with people I care about." />
+                      <outline text="Pretty fluent in sarcasm. Lover of food. INFJ computer nerd," /></outline>
+                  </outline>
+                </outline>
+              </outline>
+              <outline _complete="true" text="Archived" >
+                <outline text="Hi guys," />
+                <outline text="Once again, congratulations again for joining our Centarian team!  Here are a couple things you may or may not know:" />
+                <outline text="We all attend Quarterly Staff meetings – which are not only informative and interactive, but are also a blast." />
+                <outline text="In these staff meetings, part of the agenda is introducing our new team members …. so do you see where this is headed?!" />
+                <outline text="Here's how you can help. We provide 10 questions to answer (see below). You answer 4 questions on video, and our guru Steve Schmidt will put together a new-employee video for all to enjoy. It’s a lighthearted way for us to get to know you better. I believe Tarisa is setting up a meeting time with Steve sometime this week, watch for it on your calendar." />
+                <outline text="Here are the question options…" />
+                <outline text="What was your first concert?" />
+                <outline text="What was the last iTunes/Album/CD/mp3 you bought?" />
+                <outline text="What’s your favorite song for singing in the car?" />
+                <outline text="If you could drive any car for a day, what would it be?" />
+                <outline text="What’s your favorite smell?" />
+                <outline text="What's your favorite holiday movie?" />
+                <outline text="What was the most interesting job you've had before Centare?" /></outline>
+            </outline>
+            <outline _complete="true" text="Testing Tutorials" />
+            <outline text="????????????????????????" _note=" " /></outline>
+          <outline _complete="true" text="Tuesday - 7/24" _note=" " >
+            <outline _complete="true" text="????????????????????????" />
+            <outline _complete="true" text="GE Clock In *" />
+            <outline _complete="true" text="Return Books to Library *" />
+            <outline _complete="true" text="Send Intro to Steve Schmidt *" />
+            <outline _complete="true" text="Message Jodee *" />
+            <outline _complete="true" text="Set Up with Andy *" />
+            <outline _complete="true" text="Shadow Matt Wanke *" />
+            <outline _complete="true" text="Specflow Sample" />
+            <outline _complete="true" text="Clock Out" _note="6:07" />
+            <outline _complete="true" text="????????????????????????" _note=" " /></outline>
+        </outline>
+        <outline text="????????????????????????" _note=" " /></outline>
+    </outline>
+  </body>
+</opml>

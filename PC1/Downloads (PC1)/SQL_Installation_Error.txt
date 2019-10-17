@@ -1,0 +1,115 @@
+(01) 2018-07-18 12:25:05 Slp: Log provider 'Microsoft.SqlServer.Chainer.Infrastructure.LogProviderFile' has been registered
+(01) 2018-07-18 12:25:05 Slp: Log provider 'Microsoft.SqlServer.Chainer.Infrastructure.LogProviderStatus' has been registered
+(01) 2018-07-18 12:25:10 Slp: Reading XML resource 'Microsoft.SQL.Chainer.PackageData.Package.xml'
+(01) 2018-07-18 12:25:10 Slp: Reading schema resource 'Microsoft.SQL.Chainer.Package.Package.xsd'
+(01) 2018-07-18 12:25:10 Slp: Document 'Microsoft.SQL.Chainer.PackageData.Package.xml' validated with schema 'Microsoft.SQL.Chainer.Package.Package.xsd' has been successfuly loaded into datastore path '/Datastore/Package'
+(01) 2018-07-18 12:25:12 Slp: ----------------------------------------------------------------------
+(01) 2018-07-18 12:25:12 Slp: Running Action: ReadProductXML
+(01) 2018-07-18 12:25:14 Slp: Reading XML resource 'Microsoft.SQL.Chainer.Product.Product.xml'
+(01) 2018-07-18 12:25:14 Slp: Document 'Microsoft.SQL.Chainer.Product.Product.xml' validated with schema 'Microsoft.SQL.Chainer.Product.Product.xsd' has been successfuly loaded into datastore path '/Datastore/Product'
+(01) 2018-07-18 12:25:14 Slp: Completed Action: ReadProductXML, returned True
+(01) 2018-07-18 12:25:14 Slp: ----------------------------------------------------------------------
+(01) 2018-07-18 12:25:14 Slp: Running Action: LoadExtensions
+(01) 2018-07-18 12:25:15 Slp: Loading extension 'MSI' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.MsiExtension.dll'
+(01) 2018-07-18 12:25:16 Slp: Extension 'MSI' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:16 Slp: Loading extension 'PackageChainer' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.PackageChainerExtension.dll'
+(01) 2018-07-18 12:25:16 Slp: Extension 'PackageChainer' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:16 Slp: Loading extension 'Config' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.ConfigExtension.dll'
+(01) 2018-07-18 12:25:17 Slp: Extension 'Config' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:17 Slp: Loading extension 'Common' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Chainer.ExtensionCommon.dll'
+(01) 2018-07-18 12:25:18 Slp: Extension 'Common' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:18 Slp: Loading extension 'SqlConfigBase' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SqlConfigBase.dll'
+(01) 2018-07-18 12:25:22 Slp: Extension 'SqlConfigBase' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:22 Slp: Loading extension 'Slp' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SetupExtension.dll'
+(01) 2018-07-18 12:25:23 Slp: Extension 'Slp' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:23 Slp: Loading extension 'RulesEngine' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.RulesEngineExtension.dll'
+(01) 2018-07-18 12:25:23 Slp: Extension 'RulesEngine' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:23 Slp: Loading extension 'WorkflowData' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Chainer.WorkflowData.dll'
+(01) 2018-07-18 12:25:25 Slp: Extension 'WorkflowData' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:25 Slp: Loading extension 'SlpConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SlpExtension.dll'
+(01) 2018-07-18 12:25:26 Slp: Extension 'SlpConfig' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:26 Slp: Loading extension 'Clst' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.Cluster.dll'
+(01) 2018-07-18 12:25:28 Slp: Extension 'Clst' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:28 Slp: Loading extension 'AgentConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.AgentExtension.dll'
+(01) 2018-07-18 12:25:29 Slp: Extension 'AgentConfig' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:29 Slp: Loading extension 'SqlPowershellConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.PowershellExtension.dll'
+(01) 2018-07-18 12:25:30 Slp: Extension 'SqlPowershellConfig' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:30 Slp: Loading extension 'SSISConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SSISExtension.dll'
+(01) 2018-07-18 12:25:31 Slp: Extension 'SSISConfig' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:31 Slp: Loading extension 'DReplayConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.DistributedReplayExtension.dll'
+(01) 2018-07-18 12:25:32 Slp: Extension 'DReplayConfig' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:32 Slp: Loading extension 'ASConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.ASExtension.dll'
+(01) 2018-07-18 12:25:34 Slp: Extension 'ASConfig' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:34 Slp: Loading extension 'ReplConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.Repl_ConfigExtension.dll'
+(01) 2018-07-18 12:25:35 Slp: Extension 'ReplConfig' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:35 Slp: Loading extension 'ManagementToolsConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.ManagementToolsExtension.dll'
+(01) 2018-07-18 12:25:35 Slp: Extension 'ManagementToolsConfig' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:35 Slp: Loading extension 'ManagementToolsAdvancedConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.ManagementToolsExtension.dll'
+(01) 2018-07-18 12:25:35 Slp: Extension 'ManagementToolsAdvancedConfig' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:35 Slp: Loading extension 'UI' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.UIExtension.dll'
+(01) 2018-07-18 12:25:35 Slp: Extension 'UI' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:35 Slp: Loading extension 'ConfigurationResources' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.dll'
+(01) 2018-07-18 12:25:35 Slp: Extension 'ConfigurationResources' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:35 Slp: Loading extension 'SqlEngineConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SqlServer_ConfigExtension.dll'
+(01) 2018-07-18 12:25:40 Slp: Extension 'SqlEngineConfig' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:40 Slp: Loading extension 'XTPConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.XTP.ConfigExtension.dll'
+(01) 2018-07-18 12:25:40 Slp: Extension 'XTPConfig' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:40 Slp: Loading extension 'SniServerConfigExt' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SniServerConfigExt.dll'
+(01) 2018-07-18 12:25:43 Slp: Extension 'SniServerConfigExt' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:43 Slp: Loading extension 'SqlBrowserConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SqlBrowserExtension.dll'
+(01) 2018-07-18 12:25:44 Slp: Extension 'SqlBrowserConfig' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:44 Slp: Loading extension 'SqlRSConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.RSExtension.dll'
+(01) 2018-07-18 12:25:46 Slp: Extension 'SqlRSConfig' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:46 Slp: Loading extension 'SqlRSSHPConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.RSShpExtension.dll'
+(01) 2018-07-18 12:25:49 Slp: Extension 'SqlRSSHPConfig' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:49 Slp: Loading extension 'ExtensibilityConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.Extensibility_ConfigExtension.dll'
+(01) 2018-07-18 12:25:50 Slp: Extension 'ExtensibilityConfig' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:50 Slp: Loading extension 'sql_inst_mrConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.IMR_ConfigExtension.dll'
+(01) 2018-07-18 12:25:51 Slp: Extension 'sql_inst_mrConfig' version '13.0.1601.5' loaded
+(01) 2018-07-18 12:25:51 Slp: Loading extension 'sql_shared_mrConfig' from file '\\wiastorserv2.api-wi.com\FS5\Databases\Microsoft SQL Server 2016\Developer Edition x64\x64\.\Microsoft.SqlServer.Configuration.SMR_ConfigExtension.dll'
+(01) 2018-07-18 12:25:51 Slp: Error: Action "Microsoft.SqlServer.Configuration.BootstrapExtension.LoadExtensionsAction" threw an exception during execution.
+(01) 2018-07-18 12:25:52 Slp: Microsoft.SqlServer.Setup.Chainer.Workflow.ActionExecutionException: External component has thrown an exception. ---> Microsoft.SqlServer.Chainer.Infrastructure.ChainerInfrastructureException: External component has thrown an exception. ---> System.Runtime.InteropServices.SEHException: External component has thrown an exception.
+(01) 2018-07-18 12:25:52 Slp:    at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+(01) 2018-07-18 12:25:52 Slp:    at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+(01) 2018-07-18 12:25:52 Slp:    at System.Reflection.RuntimeAssembly.InternalLoadFrom(String assemblyFile, Evidence securityEvidence, Byte[] hashValue, AssemblyHashAlgorithm hashAlgorithm, Boolean forIntrospection, Boolean suppressSecurityChecks, StackCrawlMark& stackMark)
+(01) 2018-07-18 12:25:52 Slp:    at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Chainer.Infrastructure.ExtensionService.RegisterExtension(String extensionId, String name, String path)
+(01) 2018-07-18 12:25:52 Slp:    --- End of inner exception stack trace ---
+(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Chainer.Infrastructure.ExtensionService.RegisterExtension(String extensionId, String name, String path)
+(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Chainer.Infrastructure.ExtensionService.LoadExtensions(XmlElement extensionsElement)
+(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Configuration.BootstrapExtension.LoadExtensionsAction.ExecuteAction(String actionId)
+(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Chainer.Infrastructure.Action.Execute(String actionId, TextWriter errorStream)
+(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.<>c__DisplayClasse.<ExecuteActionWithRetryHelper>b__b()
+(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.ExecuteActionHelper(ActionWorker workerDelegate)
+(01) 2018-07-18 12:25:52 Slp:    --- End of inner exception stack trace ---
+(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.ExecuteActionHelper(ActionWorker workerDelegate)
+(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.ExecuteActionWithRetryHelper(WorkflowObject metaDb, ActionKey action, ActionMetadata actionMetadata, TextWriter statusStream)
+(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.InvokeAction(WorkflowObject metabase, TextWriter statusStream)
+(01) 2018-07-18 12:25:52 Slp:    at Microsoft.SqlServer.Setup.Chainer.Workflow.PendingActions.InvokeActions(WorkflowObject metaDb, TextWriter loggingStream)
+(01) 2018-07-18 12:25:54 Slp: Received request to add the following file to Watson reporting: C:\Users\503070486\AppData\Local\Temp\tmpBFD1.tmp
+(01) 2018-07-18 12:25:54 Slp: The following is an exception stack listing the exceptions in outermost to innermost order
+(01) 2018-07-18 12:25:54 Slp: Inner exceptions are being indented
+(01) 2018-07-18 12:25:54 Slp: 
+(01) 2018-07-18 12:25:54 Slp: Exception type: Microsoft.SqlServer.Chainer.Infrastructure.ChainerInfrastructureException
+(01) 2018-07-18 12:25:54 Slp:     Message: 
+(01) 2018-07-18 12:25:54 Slp:         External component has thrown an exception.
+(01) 2018-07-18 12:25:54 Slp:     HResult : 0x84b10001
+(01) 2018-07-18 12:25:54 Slp:         FacilityCode : 1201 (4b1)
+(01) 2018-07-18 12:25:54 Slp:         ErrorCode : 1 (0001)
+(01) 2018-07-18 12:25:54 Slp:     Stack: 
+(01) 2018-07-18 12:25:54 Slp:         at Microsoft.SqlServer.Chainer.Infrastructure.ExtensionService.RegisterExtension(String extensionId, String name, String path)
+(01) 2018-07-18 12:25:54 Slp:         at Microsoft.SqlServer.Chainer.Infrastructure.ExtensionService.LoadExtensions(XmlElement extensionsElement)
+(01) 2018-07-18 12:25:54 Slp:         at Microsoft.SqlServer.Configuration.BootstrapExtension.LoadExtensionsAction.ExecuteAction(String actionId)
+(01) 2018-07-18 12:25:54 Slp:         at Microsoft.SqlServer.Chainer.Infrastructure.Action.Execute(String actionId, TextWriter errorStream)
+(01) 2018-07-18 12:25:54 Slp:         at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.<>c__DisplayClasse.<ExecuteActionWithRetryHelper>b__b()
+(01) 2018-07-18 12:25:54 Slp:         at Microsoft.SqlServer.Setup.Chainer.Workflow.ActionInvocation.ExecuteActionHelper(ActionWorker workerDelegate)
+(01) 2018-07-18 12:25:54 Slp:     Inner exception type: System.Runtime.InteropServices.SEHException
+(01) 2018-07-18 12:25:54 Slp:         Message: 
+(01) 2018-07-18 12:25:54 Slp:                 External component has thrown an exception.
+(01) 2018-07-18 12:25:54 Slp:         HResult : 0x80004005
+(01) 2018-07-18 12:25:54 Slp:         Stack: 
+(01) 2018-07-18 12:25:54 Slp:                 at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+(01) 2018-07-18 12:25:54 Slp:                 at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+(01) 2018-07-18 12:25:54 Slp:                 at System.Reflection.RuntimeAssembly.InternalLoadFrom(String assemblyFile, Evidence securityEvidence, Byte[] hashValue, AssemblyHashAlgorithm hashAlgorithm, Boolean forIntrospection, Boolean suppressSecurityChecks, StackCrawlMark& stackMark)
+(01) 2018-07-18 12:25:54 Slp:                 at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+(01) 2018-07-18 12:25:54 Slp:                 at Microsoft.SqlServer.Chainer.Infrastructure.ExtensionService.RegisterExtension(String extensionId, String name, String path)
